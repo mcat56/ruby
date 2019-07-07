@@ -20,3 +20,5 @@ Style rules that are purely about consistency do not need rationales.
 Individual rules should include, after the description of the rule, a link to
 that rule, and, if a rationale is being added to `rationales.md`, a link to the
 detailed rationale.
+
+-------------------------------------------------------------------------------
